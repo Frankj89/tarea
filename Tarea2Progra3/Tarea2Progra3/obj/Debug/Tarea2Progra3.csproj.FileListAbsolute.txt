@@ -1,0 +1,7 @@
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\bin\Debug\Tarea2Progra3.exe.config
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\bin\Debug\Tarea2Progra3.exe
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\bin\Debug\Tarea2Progra3.pdb
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\obj\Debug\Tarea2Progra3.csproj.AssemblyReference.cache
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\obj\Debug\Tarea2Progra3.csproj.CoreCompileInputs.cache
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\obj\Debug\Tarea2Progra3.exe
+C:\Users\v-frurb\Desktop\Lithia\Tarea2Progra3\Tarea2Progra3\obj\Debug\Tarea2Progra3.pdb
